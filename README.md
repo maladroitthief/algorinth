@@ -1,1 +1,1 @@
-# algorynth
+# algorinth
